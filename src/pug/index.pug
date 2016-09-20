@@ -1,0 +1,54 @@
+doctype html
+html.no-js(lang='ru')
+	head
+		meta(charset='utf-8')
+		meta(http-equiv='X-UA-Compatible', content='IE=edge')
+		meta(name='viewport', content='width=device-width, initial-scale=1')
+		title Site Title
+		meta(name='description', content='')
+		link(rel="stylesheet" href="https://cdn.jsdelivr.net/gridlex/2.2.2/gridlex.min.css")
+		link(rel='stylesheet', href='css/main.css')
+		//- Slick
+		//- link(rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css")
+	body
+		.wrapper
+			header
+				.grid-spaceBetween
+					.col
+						//- img(src="img/logo.png")
+						h2 qDev
+					.col
+						nav
+							menu.grid-spaceAround
+								- var menu = [{url: '/', name: 'Главная'}, {url: '/portfolio.html', name: 'Портфолио'}, {url: '/notes.html', name: 'Заметки'}, {url: '/about.html', name: 'About'}];
+								each item in menu
+										li.col: a(href=item.url)= item.name
+			main
+				block content
+					section.s-intro
+						.grid
+							.col-12
+					section.s-main-latest
+						.grid-spaceAround
+								.col-6_xs-12.grid-column
+									h2 Недавние работы
+									.wrap20
+										.block-image.grid-center
+											.image.image-zoom
+												//- img(src="http://lorempixel.com/400/300/technics/1", alt="")
+												a(href="#")
+													img(src="img/400-300.jpg", alt="")
+												.image-text
+													h4: a(href="#") Название проекта
+													p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio voluptates, tempore nisi nostrum ipsa veniam repudiandae quam praesentium voluptatum magni autem velit repellendus facere laudantium nemo molestias ab quo rerum!
+								.col-6_xs-12.grid-column
+									h2 Недавние записи
+									.wrap20
+										h4: a(href="#") Заголовок записи
+										p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae iusto esse ut rem! Vel enim fugiat, temporibus alias atque quod maxime id rem nam totam illo ratione consequatur voluptates soluta!
+			hr.footerRuler
+			footer
+				p Copyright © 2014
+		script(src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js")
+		//- script(src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js")
+		script(src="js/main.js")

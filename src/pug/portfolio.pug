@@ -1,0 +1,18 @@
+extends index.pug
+
+block content
+	section.s-portfolio
+		.grid-spaceAround
+			mixin portfolio-grid()
+				.col-4_sm-6_xs-12
+					.block-image
+						.image.image-zoom
+							
+							a(href="#")
+								img(src="img/400-300.jpg", alt="")
+							.image-text
+								h4: a(href="#") Название проекта
+								p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio voluptates, tempore nisi nostrum ipsa veniam repudiandae quam praesentium voluptatum magni autem velit repellendus facere laudantium nemo molestias ab quo rerum!
+			- var n = 0;
+			while n < 9
+				+portfolio-grid(n++)

@@ -1,0 +1,125 @@
+// Hint
+// .s-eye
+	+sprite($s-eye)
+
+// Third Party
+
+// @import "../../bower_components/normalize.css/normalize.css"
+
+// Typography
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic,latin)
+// @import url(https://fonts.googleapis.com/css?family=PT+Sans:700&subset=cyrillic)
+// @import url(https://fonts.googleapis.com/css?family=Roboto:400,700&subset=cyrillic,latin)
+
+// Custom
+@import "../libs/normalize.css/normalize"
+@import "partials/_reset"
+@import "partials/_variables"
+@import "partials/_clearfix"
+@import "partials/_base"
+// @import "partials/_sprite"
+html, body
+	height: 100vh
+body 
+	font: 16px/1.2 'Open Sans', sans-serif
+	background: url("../img/bg.png")
+
+.wrapper 
+	max-width: 960px
+	width: 100%
+	margin: 0 auto
+	padding-top: 1rem
+	height: 100vh
+	box-sizing: border-box
+	display: flex
+	flex-direction: column
+.wrap20
+	padding: 20px
+
+/* ==========================================================================
+   Header
+   ========================================================================== */
+header
+	border-bottom: 1px solid #C2C2C2
+	menu
+		li
+			a
+				display: block
+				padding: 0.5rem
+				background: $link-c
+				color: $white
+				text-transform: uppercase
+				text-align: center
+				&:hover
+					background: lighten($link-c, 20%)
+
+main
+	flex-grow: 1
+
+section
+	border-bottom: 1px solid #C2C2C2	
+
+.s-intro
+.s-main-latest
+	h2
+		margin: 30px 0 20px
+		text-transform: uppercase
+		font:
+			weight: 700
+			size: 1.5rem
+		line-height: 2rem
+		color: #bbb
+		border-bottom: 1px solid #C2C2C2	
+	.block-image
+		// text-align: center
+		.image-zoom
+			max-width: 400px
+			width: 100%
+			max-height: 300px
+			border-top: 5px solid $link-c
+			a
+				display: block
+		.image
+			overflow: hidden
+			&-text
+				// bottom: -100%
+				padding: 1em
+				transition: all 1s ease-out
+				transform: translate(0%, 100%)
+				background-color: transparentize($link-c, .1)
+				a
+					color: $white
+					&:hover
+						color: #ddd
+			&:hover .image-text
+				bottom: 0
+				transform: translate(0%, 0%)
+.s-portfolio
+	padding: 2rem
+	@extend .s-main-latest
+	
+	.image-text
+		top: 0
+
+	h4
+		font-weight: 600
+		line-height: 2
+		a:hover
+			color: darken($link-c, 15%)
+
+
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+.footerRuler
+	// background: url(../img/footerRuler.png) repeat-x scroll 0% 0% transparent
+	height: 2px
+	display: block
+footer
+	box-shadow: 0px 1px 0px 0px #CFCFCF inset
+	background-color: #E9E9E9
+	padding: 5px
+	width: 100%
+	margin: 0px auto
+	text-align: center

@@ -1,0 +1,111 @@
+*
+	box-sizing: border-box
+a
+	text-decoration: none
+	color: $link-c
+	transition: all 0.500s ease-out
+
+//img
+	vertical-align: top
+img
+	max-width: 100%
+	height: auto
+
+// Input
+*::-webkit-input-placeholder
+	color: $black
+*:-moz-placeholder
+	color: $black
+*::-moz-placeholder
+	color: $black
+*:-ms-input-placeholder
+	color: $black
+
+// input[type="number"]::-webkit-inner-spin-button 
+// 	appearance: none
+
+input
+	outline: none
+
+// Clearfix
+.clearfix
+	@include clearfix
+
+.hidden
+	display: none
+
+// Position
+.relative
+	position: relative
+.absolute
+	position: absolute
+
+// Text align
+.text
+	&-center
+		text-align: center
+	&-left
+		text-align: left
+	&-right
+		text-align: right
+	&-title
+		font-size: 20px
+		margin-bottom: 20px
+
+hr
+	display: block
+	height: 1px
+	margin: 1em 0
+	padding: 0
+	border: 0
+	border-top: 1px solid #ccc
+
+
+// Текст поверх изображения
+// http://borpost.ru/programmrovanie/html/tekst-poverx-izobrazheniya-html-css/
+.image
+	position: relative
+	display: inline-block
+	&-text
+		position: absolute
+		left: 0
+		right: 0
+		bottom: 0
+		width: 100%
+		color: #fff
+// Zoom image
+.image-zoom
+	overflow: hidden
+	// width: 380px
+	// height:250px
+	img
+		transition: all 1s ease-out
+		&:hover
+			transform: scale(1.1)
+
+// Обрезка текста
+.cut-wrap
+	width: 50%
+	&-text
+		overflow: hidden
+		width: 100%
+		white-space: nowrap
+		text-overflow: ellipsis
+
+// Button
+.button
+	position: relative
+	display: inline-block
+	min-width: 200px
+	padding: 0 40px
+	margin: 10px 15px
+	height: 48px
+	line-height: 48px
+	border: $button-border
+		radius: $button-radius
+	color: $button-c
+	font-size: 20px
+	text-decoration: none
+	transition: all .3s
+	&:hover
+		background-color: darken($button-bg, 10%)

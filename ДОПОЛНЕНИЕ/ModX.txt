@@ -1,0 +1,60 @@
+[[!FormIt?
+	&hooks=`recaptchav2,email,redirect`
+	&emailFrom=`noreply@[[++site_name]]`
+	&emailFromName=`[[++site_name]]`
+	&emailSubject=`Сообщение с сайта [[++site_name]]`
+	&emailTpl=`emailTpl`
+	&emailTo=`[[++emailsender]]`
+	&redirectTo=`[[*id]]`
+	&redirectParams=`{"success": 1}`
+	&validate=`aname:required,
+		email:email:required,
+		tel:isNumber:required,
+		message:required:stripTags`
+	&successMessage=`*Сообщение отправлено!`
+	&placeholderPrefix=`fi.`
+	&successMessagePlaceholder=`fi.successMessage`
+	&validationErrorMessage=`*Не удалось отправить сообщение.`
+]]
+
+<form action="[[~[[*id]]]]" class="aside-form" method="post" name="asideForm" id="asideForm">
+		<span class="success">[[!+fi.successMessage]]</span>
+		<span class="fail">[[!+fi.validation_error_message]]</span>
+	---------------------------------------------------
+	<div style="width:100px">[[!recaptchav2_render]]
+	[[!+fi.error.recaptchav2_error]]</div>fo
+	---------------------------------------------------
+</form>
+
+		<input type="text" name="name" placeholder="Имя*" value="[[!+fi.name]]">
+
+emailTpl
+<p>Это сообщение было отправлено посетителем по имени [[+name]] с помощью формы обратной связи. </p>
+
+Имя: [[+name]] <br />
+E-mail: [[+email]] <br />
+Контактный телефон: [[+tel]] <br />
+Текст сообщения: [[+message]]
+
+
+[[~[[4? &scheme=`full`]][[-+idResource? &scheme=`full`]] ]]
+
+
+[
+{"caption":"Info", "fields": [
+{"field":"link","caption":"Link","inputTVtype":"title"},
+{"field":"description","caption":"Description","inputTVtype":"richtext"},
+{"field":"image","caption":"Image","inputTVtype":"image"}
+]}
+] 
+
+
+[
+{"header": "Image", "width": "300", "sortable": "false", "dataIndex": "image","renderer": "this.renderImage"},
+{"header": "Title", "width": "300", "sortable": "true", "dataIndex": "description"},
+{"header": "Link", "width": "300", "sortable": "true", "dataIndex": "link"}
+]
+
+[[!getImageList? &tpl=`@CODE:  <div class="col-2_sm-3"><img src="[[+image]]"></div>` &tvname=`blackBlockImg`]]
+
+[[pdoField? &id=`1` &field=`d1`]]

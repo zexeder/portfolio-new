@@ -1,0 +1,38 @@
+*,
+*:before,
+*:after 
+	box-sizing: border-box
+
+body
+	font: 100%/1.5em Arial, Helvetica, sans-serif
+	color: #000
+
+// New
+.mobile-menu
+	z-index: 99
+	box-shadow: 0 2px 3px #777
+
+// Button
+.btn
+	background: $btn-bg
+	// position: relative
+	display: inline-block
+	min-width: 200px
+	padding: 0 40px
+	// margin: 10px 15px
+	height: 48px
+	line-height: 48px
+	border: $btn-border
+		radius: $btn-radius
+		sizing: border-box
+	cursor: pointer
+	color: $btn-c
+	font-size: $btn-font-size
+	text-decoration: none
+	transition: all .3s
+	text-align: center
+	&:hover
+		background-color: darken($btn-bg, 10%)
+
+.hidden
+	display: none

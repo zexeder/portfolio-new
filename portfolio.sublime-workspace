@@ -1,0 +1,2012 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ser",
+				"serialize	.serialize()"
+			],
+			[
+				"animate",
+				"animate	.animate()"
+			],
+			[
+				"anim",
+				"animate	.animate() with callback"
+			],
+			[
+				"text",
+				"text-justify: "
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"scro",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"tes",
+				"textPosition"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"chan",
+				"changed"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cente",
+				"centerMode"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"port",
+				"portfolioItem"
+			],
+			[
+				"ad",
+				"adaptiveHeight"
+			],
+			[
+				"tran",
+				"transition: "
+			],
+			[
+				"min",
+				"min-width: "
+			],
+			[
+				"ly",
+				"list-style-type"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"opaci",
+				"opacity	opacity()"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"transitin",
+				"transition-delay: "
+			],
+			[
+				"list",
+				"list:c	list-style-type:circle"
+			],
+			[
+				"po",
+				"pos:a	position:absolute"
+			],
+			[
+				"togg",
+				"toggle	.toggle()"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"tri",
+				"trigger	.trigger()"
+			],
+			[
+				"fad",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"anima",
+				"animate	.animate()"
+			],
+			[
+				"tr",
+				"transform: "
+			],
+			[
+				"co",
+				"color: "
+			],
+			[
+				"kop",
+				"komplex-strazh.ru.zip"
+			],
+			[
+				"kom",
+				"komplex-strazh.ru.zip"
+			],
+			[
+				"bo",
+				"bower_components/"
+			],
+			[
+				"cs",
+				"css	.css() - single"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"sp",
+				"space-around"
+			],
+			[
+				"share",
+				"share-wrap"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"new",
+				"newsList"
+			],
+			[
+				"ex",
+				"extend	@extend"
+			],
+			[
+				"browser",
+				"browserSync"
+			],
+			[
+				"err",
+				"errLogToConsole"
+			],
+			[
+				"sour",
+				"sourceMap"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"fl",
+				"flex-flow"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"ligh",
+				"light-block"
+			],
+			[
+				"boro",
+				"border-box"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"re",
+				"service-teh-rabota.jade"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"sev",
+				"service-konsult.jade"
+			],
+			[
+				"la",
+				"last-child"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"part",
+				"partners"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/pug/index.pug",
+			"settings":
+			{
+				"buffer_size": 1071,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sass/main.sass",
+			"settings":
+			{
+				"buffer_size": 1255,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sass/partials/_variables.sass",
+			"settings":
+			{
+				"buffer_size": 146,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/sass/partials/_base.sass",
+			"settings":
+			{
+				"buffer_size": 1499,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disble",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"gulpsh",
+				"Gulp: Show panel"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"g",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"gulp ",
+				"Gulp"
+			],
+			[
+				"gu",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"packed",
+				"Package Control: Disable Package"
+			],
+			[
+				"gu sh",
+				"Gulp: Show panel"
+			],
+			[
+				"gus",
+				"Gulp: Show panel"
+			],
+			[
+				"gu s",
+				"Gulp: Show panel"
+			],
+			[
+				"gsh",
+				"Gulp: Show panel"
+			],
+			[
+				"gca",
+				"Gulp: Delete cache"
+			],
+			[
+				"gki",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"gud",
+				"Gulp: Delete cache"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"Html",
+				"Set Syntax: HTML"
+			],
+			[
+				"gu ca",
+				"Gulp: Delete cache"
+			],
+			[
+				"k",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"gulp kil",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"g k",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"gu k",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"d",
+				"Set Syntax: D"
+			],
+			[
+				"gu d",
+				"Gulp: Delete cache"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"guca",
+				"Gulp: Delete cache"
+			],
+			[
+				"gul k",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"gulk",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"gul ",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"\\",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/WORK/portfolio",
+		"/D/WORK/portfolio/ДОПОЛНЕНИЕ",
+		"/D/WORK/portfolio/src",
+		"/D/WORK/portfolio/src/pug",
+		"/D/WORK/portfolio/src/sass",
+		"/D/WORK/portfolio/src/sass/partials"
+	],
+	"file_history":
+	[
+		"/D/WORK/portfolio/gulpfile.js",
+		"/D/WORK/portfolio/src/sass/partials/_base.sass",
+		"/D/WORK/portfolio/src/sass/partials/_reset.sass",
+		"//pc-designer-01/share/komplex-host/build/css/main.css",
+		"//pc-designer-01/share/komplex-host/build/css/a.css",
+		"//pc-designer-01/share/komplex-host/build/index.html",
+		"//pc-designer-01/share/komplex-host/build/js/main.js",
+		"/C/Users/qurusan/AppData/Local/Temp/scp55809/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/index.php",
+		"/C/Users/qurusan/AppData/Local/Temp/scp27175/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/css/host-calc.css",
+		"/C/Users/qurusan/AppData/Local/Temp/scp09570/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/js/html5shiv.js",
+		"/C/Users/qurusan/AppData/Local/Temp/scp28706/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/js/host-calc.js",
+		"/D/WORK/host-form/build/js/main.js",
+		"/C/Users/qurusan/AppData/Local/Temp/scp04771/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/calc.html",
+		"/C/Users/qurusan/AppData/Local/Temp/scp44724/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/js/news.js",
+		"/C/Users/qurusan/AppData/Local/Temp/scp18085/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/js/internaljs.js",
+		"/C/Users/qurusan/AppData/Local/Temp/scp30906/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/js/object.js",
+		"/D/WORK/host-form/build/index.html",
+		"/C/Users/qurusan/AppData/Local/Temp/scp19541/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/js/main.js",
+		"/D/WORK/host-form/src/js/main.js",
+		"/C/Users/qurusan/Documents/pass.todo",
+		"/C/Users/qurusan/AppData/Local/Temp/scp18711/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/js/main.min.js",
+		"/D/OpenServer/userdata/temp/email/2016-09-14_16-22-48-7110.txt",
+		"/D/OpenServer/userdata/temp/email/2016-09-14_16-20-20-9950.txt",
+		"/D/OpenServer/domains/dfm.dev/assets/components/ajaxform/js/default.js",
+		"/D/OpenServer/userdata/temp/email/2016-09-14_13-24-44-0160.txt",
+		"/D/OpenServer/userdata/temp/email/2016-09-14_13-24-09-4340.txt",
+		"/C/Users/qurusan/Downloads/pushy-master/demo.html",
+		"/D/OpenServer/userdata/temp/email/2016-09-13_10-48-39-0330.txt",
+		"/D/OpenServer/userdata/temp/email/2016-09-13_11-29-06-9180.txt",
+		"/D/OpenServer/userdata/temp/email/2016-09-13_12-03-02-2360.txt",
+		"/D/OpenServer/userdata/temp/email/2016-09-13_14-32-34-3180.txt",
+		"/C/Users/qurusan/Documents/frontend-template/ДОПОЛНЕНИЕ/ModX.txt",
+		"/C/Users/qurusan/Documents/frontend-template/ДОПОЛНЕНИЕ/libList.md",
+		"/D/OpenServer/domains/dfm.dev/subl_proj.txt",
+		"/C/Users/qurusan/Documents/Библиотеки на сайтах.txt",
+		"/D/OpenServer/userdata/temp/email/2016-09-13_10-42-15-3350.txt",
+		"/C/Users/qurusan/AppData/Local/Temp/scp25894/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/css/slick-theme.css",
+		"/D/OpenServer/domains/dfm.dev/assets/css/main.css",
+		"/C/Users/qurusan/AppData/Local/Temp/scp28743/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/css/carousel.css",
+		"/C/Users/qurusan/AppData/Local/Temp/scp02077/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/css/style.css",
+		"/C/Users/qurusan/AppData/Local/Temp/scp27615/var/www/komplexhostru/data/www/komplex-host.ru/templates/Komplex_Host_Gorgy/css/grid.css",
+		"/C/Users/qurusan/AppData/Local/Temp/scp50761/var/www/dfmnn/data/www/dfmnn.ru/core/config/config.inc.php",
+		"/C/Users/qurusan/AppData/Local/Temp/scp57014/var/www/dfmnn/data/www/dfmnn.ru/index.php",
+		"/C/Users/qurusan/AppData/Local/Temp/scp55175/var/www/dfmnn/data/www/dfmnn.ru/.htaccess",
+		"/C/Users/qurusan/AppData/Local/Temp/scp51513/var/www/dfmnn/data/www/dfmnn.ru/admin/config.core.php",
+		"/C/Users/qurusan/AppData/Local/Temp/scp51433/var/www/dfmnn/data/www/dfmnn.ru/connectors/config.core.php",
+		"/C/Users/qurusan/AppData/Local/Temp/scp50296/var/www/dfmnn/data/www/dfmnn.ru/config.core.php",
+		"/D/OpenServer/domains/dfm.dev/src/js/pushy.min.js",
+		"/D/OpenServer/domains/dfm.dev/src/js/jquery.knob.min.js",
+		"/D/OpenServer/domains/dfm.dev/src/js/partials/helper.js",
+		"/D/OpenServer/domains/dfm.dev/assets/js/main.js",
+		"/D/WORK/dfm/src/js/main.js",
+		"/D/OpenServer/domains/dfm.dev/gulpfile.js",
+		"/C/Users/qurusan/Downloads/pushy-master/js/pushy.js",
+		"/D/OpenServer/domains/dfm.dev/assets/js/main.min.js",
+		"/D/OpenServer/domains/dfm.dev/assets/js/pushy.min.js",
+		"/D/OpenServer/domains/dfm.dev/assets/js/mygooglechart.js",
+		"/D/OpenServer/domains/dfm.dev/src/sass/partials/header.sass",
+		"/D/OpenServer/domains/dfm.dev/src/sass/partials/_variables.sass",
+		"/D/OpenServer/domains/dfm.dev/src/js/main.js",
+		"/D/OpenServer/domains/dfm.dev/assets/reklama.html",
+		"/C/Users/qurusan/AppData/Local/Temp/scp10013/www/komplex-strazh.ru/assets/js/main.js",
+		"/D/OpenServer/domains/dfm.dev/src/sass/partials/_media.sass",
+		"/C/Users/qurusan/Downloads/pushy-master/css/demo.css",
+		"/C/Users/qurusan/Downloads/pushy-master/README.md",
+		"/D/OpenServer/domains/dfm.dev/assets/index.html",
+		"/D/OpenServer/domains/dfm.dev/src/jade/kontakt.jade",
+		"/D/OpenServer/domains/dfm.dev/assets/statistika.html",
+		"/C/Users/qurusan/AppData/Local/Temp/scp07051/www/komplex-strazh.ru/core/config/config.inc.php",
+		"/C/Users/qurusan/AppData/Local/Temp/scp23423/home/zexeder/web/test.qdev.space/public_html/.htaccess",
+		"/C/Users/qurusan/AppData/Local/Temp/scp04782/home/zexeder/web/test.qdev.space/public_html/manager/config.core.php",
+		"/C/Users/qurusan/AppData/Local/Temp/scp04390/home/zexeder/web/test.qdev.space/public_html/connectors/config.core.php",
+		"/C/Users/qurusan/AppData/Local/Temp/scp02039/home/zexeder/web/test.qdev.space/public_html/core/config/config.inc.php",
+		"/C/Users/qurusan/AppData/Local/Temp/scp01680/home/zexeder/web/test.qdev.space/public_html/config.core.php",
+		"/C/Users/qurusan/AppData/Local/Temp/scp07965/www/komplex-strazh.ru/config.core.php",
+		"/C/Users/qurusan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/qurusan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/qurusan/AppData/Roaming/Sublime Text 3/Packages/Sublimall/Sublimall.sublime-settings",
+		"/C/Users/qurusan/AppData/Local/Temp/scp51523/www/komplex-strazh.ru/core/.htaccess",
+		"/D/OpenServer/domains/dfm.dev/src/sass/partials/_base.sass",
+		"/D/OpenServer/domains/dfm.dev/core/.htaccess",
+		"/D/OpenServer/domains/dfm.dev/набор стилей",
+		"/D/OpenServer/domains/dfm.dev/core/components/yandexmaps/docs/changelog.txt",
+		"/D/OpenServer/domains/dfm.dev/core/components/yandexmaps/docs/readme.txt",
+		"/D/OpenServer/domains/dfm.dev/src/sass/main.sass",
+		"/C/Users/qurusan/Documents/frontend-template/src/sass/partials/_base.sass",
+		"/C/Users/qurusan/Documents/frontend-template/src/sass/main.sass",
+		"/D/OpenServer/userdata/temp/email/2016-09-05_11-18-01-0390.txt",
+		"/D/OpenServer/userdata/temp/email/2016-09-05_11-18-26-2670.txt",
+		"/D/OpenServer/userdata/temp/email/2016-09-05_11-16-35-3280.txt",
+		"/C/Users/qurusan/Documents/frontend-template/subl_proj.txt",
+		"/D/OpenServer/domains/dfm.dev/assets/js/CircleChart.js",
+		"/D/OpenServer/domains/dfm.dev/assets/js/jquery.waypoints.min.js",
+		"/D/OpenServer/domains/dfm.dev/assets/js/waypoints.min.js",
+		"/D/OpenServer/domains/dfm.dev/assets/js/jquery.malihu.PageScroll2id.min.js",
+		"/C/Users/qurusan/Downloads/AnimateCSS/анимация при прокрутке.txt",
+		"/C/Users/qurusan/Documents/frontend-template/package.json",
+		"/C/Users/qurusan/Documents/frontend-template/gulpfile.js",
+		"/D/WORK/orion/gulpfile.js",
+		"/D/WORK/orion/package.json",
+		"/D/OpenServer/domains/dfm.dev/package.json",
+		"/D/WORK/orion/README.md",
+		"/D/OpenServer/domains/dfm.dev/src/libs/circle-chart/CircleChart.js",
+		"/D/komplex-start/komplex-start.txt",
+		"/C/Users/qurusan/Documents/host-calc_json_main.js",
+		"/D/OpenServer/domains/dfm.dev/readme.md",
+		"/C/Users/qurusan/Documents/frontend-template/.gitignore",
+		"/D/FOLDER/Front-End Template/bower.json",
+		"/D/FRONT-END Template/bower.json",
+		"/C/Users/qurusan/Documents/FRONT-END Template/bower.json",
+		"/C/Users/qurusan/Documents/FRONT-END Template/.bowerrc",
+		"/D/FRONT-END Template/gulpfile.js",
+		"/C/Users/qurusan/Documents/FRONT-END Template/gulpfile.js",
+		"/C/Users/qurusan/Documents/FRONT-END Template/src/js/main.js",
+		"/D/FRONT-END Template/subl_proj.txt",
+		"/D/FRONT-END Template/ДОПОЛНЕНИЕ/file.sass",
+		"/C/Users/qurusan/Documents/FRONT-END Template/ДОПОЛНЕНИЕ/file.sass",
+		"/D/OpenServer/domains/dfm.dev/assets/kontakt.html",
+		"/D/WORK/dfm/design/header.txt",
+		"/C/Users/qurusan/Documents/FRONT-END Template/ДОПОЛНЕНИЕ/ModX.txt",
+		"/D/OpenServer/domains/dfm.dev/assets/o-kompanii.html",
+		"/D/OpenServer/domains/dfm.dev/src/jade/partials/_broadcast.pug",
+		"/C/Users/qurusan/AppData/Local/Temp/Temp1__lesson_ovk.zip/ready_html/sass/header.sass",
+		"/C/Users/qurusan/Downloads/_lesson_ovk/ready_html/sass/main.sass",
+		"/D/OpenServer/domains/dfm.dev/src/js/my-google-chart.js",
+		"/D/OpenServer/domains/delux.dev/assets/js/main.js",
+		"/D/OpenServer/domains/dfm.dev/src/jade/o-radio.jade",
+		"/C/Users/qurusan/Downloads/_lesson_ovk/ready_html/sass/header.sass"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".modal h3",
+			"moduletable",
+			"#id-result",
+			");\n",
+			"confi",
+			"printObjLikeString",
+			"-btn",
+			"btn",
+			"modal-view-config",
+			"java",
+			"console",
+			".modal-index",
+			"host",
+			"if (JURI::current()",
+			"if (JURI::current() == JURI::base()){ ?>",
+			"reset",
+			"error",
+			"nouislider",
+			"       <script src='/templates/<?php echo $this->template ?>/js/host-calc.js'></script>",
+			"jcarou",
+			"push",
+			"480px",
+			"480",
+			"dfm",
+			"dfm.dev",
+			"D:/OpenServer/domains/dfm.dev",
+			"flex: 0 0",
+			"flex-basis",
+			"solution-block",
+			"768",
+			"animatedVal",
+			"nav",
+			"mobil",
+			"</li>",
+			"<li ",
+			"li",
+			"<strong>",
+			"<span>",
+			".h5",
+			"h5",
+			"menu",
+			"mobile",
+			"dial",
+			"&-block",
+			"li>",
+			"<li",
+			"i",
+			"&-block",
+			"left: 100%",
+			"pushy",
+			"nav",
+			"none",
+			".arr-r",
+			"order",
+			".order",
+			"qualiti",
+			"h2",
+			"quality",
+			"768",
+			"	.col-6.col_sm-12",
+			".col_sm-12",
+			".text-center",
+			".col-6.col_sm-12",
+			".grid-column",
+			".col-6.col_sm-12.grid-column",
+			"spaceAround",
+			".col-6.col_sm-12.grid-column.text-center",
+			".col-6.col_sm-12.grid-spaceAround",
+			".col-6.col_sm-12.grid-column.text-center",
+			".col-2.col_sm-3",
+			"ru",
+			"komplex-strazh",
+			"/mnt/trash_folder/WORK/qalex-group/",
+			"map",
+			"&-grey",
+			"grey",
+			"lege",
+			"after",
+			"overflow",
+			"slidck",
+			"over",
+			"orange",
+			"form",
+			".slick-prev",
+			".slick-prev, .slick-next",
+			"chart",
+			"140px",
+			"css",
+			"140",
+			"sex",
+			"knob",
+			"s-au",
+			"animated",
+			"jade",
+			"newer",
+			"stage-",
+			"first",
+			"5px",
+			"140px",
+			"age",
+			"dayl",
+			"span",
+			"дина",
+			"orange-blo",
+			"s-broad",
+			"kart",
+			".s-broadcast-city",
+			"s-broadcast-city",
+			"red",
+			"<tr>",
+			"<td>",
+			"75",
+			"conta",
+			"$nav",
+			"inner-men",
+			"$nav",
+			"inner-men",
+			"span",
+			"768",
+			".col-block-last",
+			"70px",
+			"purple",
+			"fourt",
+			"orange",
+			".col-",
+			"fou",
+			"first",
+			"liste"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"font",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/pug/index.pug",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								582,
+								579
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										582,
+										583
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										569,
+										570
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/sass/main.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								479,
+								479
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										478,
+										479
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										462,
+										463
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/sass/partials/_variables.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/sass/partials/_base.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1499,
+								1499
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1498,
+										1499
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1482,
+										1483
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1458.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 130.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"base.sass",
+				"src\\sass\\partials\\_base.sass"
+			],
+			[
+				"base.sas",
+				"src\\sass\\partials\\_base.sass"
+			],
+			[
+				"var",
+				"src\\sass\\partials\\_variables.sass"
+			],
+			[
+				"header",
+				"src\\sass\\partials\\header.sass"
+			],
+			[
+				"_med",
+				"src\\sass\\partials\\_media.sass"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"reka",
+				"assets\\reklama.html"
+			],
+			[
+				"base",
+				"src\\sass\\partials\\_base.sass"
+			],
+			[
+				"sta",
+				"assets\\statistika.html"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"chart",
+				"assets\\js\\mygooglechart.js"
+			],
+			[
+				"main.js",
+				"src\\js\\main.js"
+			],
+			[
+				"index.html",
+				"assets\\index.html"
+			],
+			[
+				"main.css",
+				"assets\\css\\main.css"
+			],
+			[
+				"kon",
+				"assets\\kontakt.html"
+			],
+			[
+				"ind",
+				"assets\\index.html"
+			],
+			[
+				"re",
+				"assets\\reklama.html"
+			],
+			[
+				"o-",
+				"assets\\o-kompanii.html"
+			],
+			[
+				"konta",
+				"assets\\kontakt.html"
+			],
+			[
+				"in",
+				"assets\\index.html"
+			],
+			[
+				"broad",
+				"src\\jade\\partials\\_broadcast.pug"
+			],
+			[
+				"stati",
+				"assets\\statistika.html"
+			],
+			[
+				"ko",
+				"assets\\kontakt.html"
+			],
+			[
+				"heade",
+				"src\\sass\\partials\\header.sass"
+			],
+			[
+				"o-k",
+				"assets\\o-kompanii.html"
+			],
+			[
+				"index",
+				"assets\\index.html"
+			],
+			[
+				"rek",
+				"assets\\reklama.html"
+			],
+			[
+				"html",
+				"admin\\min\\lib\\Minify\\HTML.php"
+			],
+			[
+				"fontell",
+				"src\\sass\\fontello.css"
+			],
+			[
+				"radio",
+				"assets\\o-radio.html"
+			],
+			[
+				"fontello",
+				"src\\sass\\fontello.css"
+			],
+			[
+				"font",
+				"src\\sass\\fontello.css"
+			],
+			[
+				"sprite",
+				"src\\sass\\partials\\_sprite.sass"
+			],
+			[
+				"_me",
+				"src\\sass\\partials\\_media.sass"
+			],
+			[
+				"reset",
+				"src\\sass\\partials\\_reset.sass"
+			],
+			[
+				"ine",
+				"assets\\index.html"
+			],
+			[
+				"spri",
+				"src\\sass\\partials\\_sprite.sass"
+			],
+			[
+				"rese",
+				"src\\sass\\partials\\_reset.sass"
+			],
+			[
+				"ba",
+				"src\\sass\\partials\\_base.sass"
+			],
+			[
+				"bas",
+				"src\\sass\\partials\\_base.sass"
+			],
+			[
+				"_ma",
+				"src\\sass\\partials\\_media.sass"
+			],
+			[
+				"main",
+				"src\\js\\main.js"
+			],
+			[
+				"fonte",
+				"src\\sass\\fontello.css"
+			],
+			[
+				"vari",
+				"src\\sass\\partials\\_variables.sass"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"nav",
+				"src\\jade\\partials\\navigation.pug"
+			],
+			[
+				"navi",
+				"src\\jade\\partials\\navigation.pug"
+			],
+			[
+				"slick.c",
+				"src\\sass\\slick-theme.css"
+			],
+			[
+				"slide",
+				"admin\\assets\\ext3\\resources\\css\\structure\\slider.css"
+			],
+			[
+				"header.a",
+				"src\\sass\\_header.sass"
+			],
+			[
+				"va",
+				"src\\sass\\partials\\_variables.sass"
+			],
+			[
+				"headersa",
+				"src\\sass\\_header.sass"
+			],
+			[
+				"media",
+				"src\\sass\\partials\\_media.sass"
+			],
+			[
+				"res",
+				"restavraciya.html"
+			],
+			[
+				"ak",
+				"akcii.html"
+			],
+			[
+				"_",
+				"src\\sass\\partials\\_reset.sass"
+			],
+			[
+				"por",
+				"portfolio.html"
+			],
+			[
+				"port",
+				"portfolio.html"
+			],
+			[
+				"_base",
+				"src\\sass\\partials\\_base.sass"
+			],
+			[
+				"modal",
+				"src\\jade\\partials\\modal-form.pug"
+			],
+			[
+				"footer",
+				"src\\jade\\partials\\form-footer.pug"
+			],
+			[
+				"popu",
+				"core\\packages\\tinymce-4.3.3-pl\\modPlugin\\46c188883a90c37d912c8b5f16d2bdbd\\0\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\css\\popup.css"
+			],
+			[
+				"form.",
+				"admin\\assets\\ext3\\resources\\css\\structure\\form.css"
+			],
+			[
+				"form",
+				"src\\jade\\partials\\form-footer.pug"
+			],
+			[
+				"fontello.c",
+				"src\\sass\\fontello.css"
+			],
+			[
+				"slick",
+				"src\\sass\\slick-theme.css"
+			],
+			[
+				"slick.css",
+				"src\\sass\\slick-theme.css"
+			],
+			[
+				"vars",
+				"src\\sass\\partials\\_variables.sass"
+			],
+			[
+				"sprite.sass",
+				"src\\sass\\partials\\_sprite.sass"
+			],
+			[
+				"jade",
+				"src\\jade\\index.jade"
+			],
+			[
+				"global.sass",
+				"src\\style\\partials\\_global.sass"
+			],
+			[
+				"global",
+				"node_modules\\es5-ext\\global.js"
+			],
+			[
+				"fontello.css",
+				"src\\style\\fontello.css"
+			],
+			[
+				"page",
+				"build\\page.html"
+			],
+			[
+				"varia",
+				"src\\style\\partials\\variable.sass"
+			],
+			[
+				"main.min",
+				"karaul-nn.ru\\assets\\js\\main.min.js"
+			],
+			[
+				"main.j",
+				"src\\js\\main.js"
+			],
+			[
+				"footer.",
+				"src\\style\\partials\\footer.sass"
+			],
+			[
+				"bu",
+				"src\\style\\partials\\buttons.sass"
+			],
+			[
+				"css",
+				"karaul-nn.ru\\assets\\css\\main.css"
+			],
+			[
+				"btn",
+				"src\\style\\partials\\buttons.sass"
+			],
+			[
+				"main.sass",
+				"src\\style\\main.sass"
+			],
+			[
+				"head",
+				"src\\style\\partials\\header.sass"
+			],
+			[
+				"index.htm",
+				"karaul-nn.ru\\index.html"
+			],
+			[
+				"sas",
+				"src\\style\\main.sass"
+			],
+			[
+				"inde.",
+				"karaul-nn.ru\\index.html"
+			],
+			[
+				"fonts",
+				"src\\style\\fontello.css"
+			],
+			[
+				"tod",
+				"todo.todo"
+			],
+			[
+				"datepi",
+				"src\\style\\partials\\datepicker.sass"
+			],
+			[
+				"footer.s",
+				"src\\style\\partials\\footer.sass"
+			],
+			[
+				"todo",
+				"todo.todo"
+			],
+			[
+				"fonte.css",
+				"src\\style\\fontello.css"
+			],
+			[
+				"font.css",
+				"src\\style\\fontello.css"
+			],
+			[
+				"main.sa",
+				"src\\style\\main.sass"
+			],
+			[
+				"_media",
+				"komplex-straj\\src\\style\\partials\\_media.sass"
+			],
+			[
+				"asid",
+				"komplex-straj\\src\\style\\partials\\aside.sass"
+			],
+			[
+				"footer.html",
+				"komplex-straj\\node_modules\\bs-recipes\\recipes\\server.includes\\app\\footer.html"
+			],
+			[
+				"aside",
+				"komplex-straj\\src\\style\\partials\\aside.sass"
+			],
+			[
+				"headsa",
+				"komplex-straj\\src\\style\\partials\\header.sass"
+			],
+			[
+				"headersas",
+				"komplex-straj\\src\\style\\partials\\header.sass"
+			],
+			[
+				"header.sas",
+				"komplex-straj\\src\\style\\partials\\header.sass"
+			],
+			[
+				"main.sas",
+				"komplex-straj\\src\\style\\main.sass"
+			],
+			[
+				"head.jad",
+				"komplex-straj\\src\\jade\\partials\\head.jade"
+			],
+			[
+				"footer.jad",
+				"komplex-straj\\src\\jade\\partials\\footer.jade"
+			],
+			[
+				"footer.sas",
+				"komplex-straj\\src\\style\\partials\\footer.sass"
+			],
+			[
+				"headersass",
+				"komplex-straj\\src\\style\\partials\\header.sass"
+			],
+			[
+				"headerja",
+				"komplex-straj\\src\\jade\\partials\\header.jade"
+			],
+			[
+				"but",
+				"komplex-straj\\src\\style\\partials\\buttons.sass"
+			],
+			[
+				"service.jad",
+				"komplex-straj\\src\\jade\\service.jade"
+			],
+			[
+				"contact",
+				"komplex-straj\\src\\jade\\contacts.jade"
+			],
+			[
+				"_medi",
+				"komplex-straj\\src\\style\\partials\\_media.sass"
+			],
+			[
+				"header.sass",
+				"komplex-straj\\src\\style\\partials\\header.sass"
+			],
+			[
+				"",
+				"komplex-straj\\src\\style\\partials\\aside.sass"
+			],
+			[
+				"index.jade",
+				"komplex-straj\\src\\jade\\index.jade"
+			],
+			[
+				"conta",
+				"komplex-straj\\src\\jade\\contacts.jade"
+			],
+			[
+				"main.a",
+				"komplex-straj\\src\\style\\main.sass"
+			],
+			[
+				"footer.ja",
+				"komplex-straj\\src\\jade\\partials\\footer.jade"
+			],
+			[
+				"header.jade",
+				"komplex-straj\\src\\jade\\partials\\header.jade"
+			],
+			[
+				"aside.ja",
+				"komplex-straj\\src\\jade\\partials\\aside.jade"
+			],
+			[
+				"aside.sas",
+				"komplex-straj\\src\\style\\partials\\aside.sass"
+			],
+			[
+				"mainsa",
+				"komplex-straj\\src\\style\\main.sass"
+			],
+			[
+				"footersass",
+				"komplex-straj\\src\\style\\partials\\footer.sass"
+			],
+			[
+				"footersas",
+				"komplex-straj\\src\\style\\partials\\footer.sass"
+			],
+			[
+				"ques",
+				"komplex-straj\\src\\jade\\questions.jade"
+			],
+			[
+				"button",
+				"komplex-straj\\src\\style\\partials\\buttons.sass"
+			],
+			[
+				"headesass",
+				"komplex-straj\\src\\style\\partials\\header.sass"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\OpenServer\\domains\\dfm.dev\\dfm.sublime-project"
+			],
+			[
+				"medic",
+				"D:\\OpenServer\\domains\\medic.sublime-project"
+			],
+			[
+				"kar",
+				"D:\\OpenServer\\domains\\karaul-nn.sublime-workspace"
+			],
+			[
+				"kara",
+				"D:\\OpenServer\\domains\\karaul-nn.sublime-workspace"
+			],
+			[
+				"kompl",
+				"D:\\WORK\\komplex-strazh\\komplex-strazh.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
