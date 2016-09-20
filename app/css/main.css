@@ -1,4 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic,latin);
+@import url(http://fonts.googleapis.com/css?family=Courgette);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700&subset=latin,cyrillic);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow&subset=cyrillic);
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Change the default font family in all browsers (opinionated).
@@ -563,25 +565,24 @@ hr {
   text-overflow: ellipsis;
 }
 
-.button {
+.btn {
   position: relative;
   display: inline-block;
   min-width: 200px;
   padding: 0 40px;
   margin: 10px 15px;
-  height: 48px;
-  line-height: 48px;
+  line-height: 2;
   border: 1px solid #212121;
-  -webkit-border-radius: 5px;
-          border-radius: 5px;
+  -webkit-border-radius: 0;
+          border-radius: 0;
   color: #fff;
-  font-size: 20px;
+  font-size: 18px;
   text-decoration: none;
-  -webkit-transition: all .3s;
-  transition: all .3s;
+  -webkit-transition: all 0.500s ease-out;
+  transition: all 0.500s ease-out;
 }
 
-.button:hover {
+.btn:hover {
   background-color: #2b4f6d;
 }
 
@@ -617,13 +618,14 @@ body {
   padding: 20px;
 }
 
+.logo {
+  font: 30px/2 'Courgette', italic;
+  letter-spacing: 10px;
+}
+
 /* ==========================================================================
    Header
    @mixin ========================================================================= */
-header {
-  border-bottom: 1px solid #C2C2C2;
-}
-
 header menu li a {
   display: block;
   padding: 0.5rem;
@@ -644,12 +646,22 @@ main {
           flex-grow: 1;
 }
 
+h1 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 1px solid #C2C2C2;
+  color: #bbb;
+  margin-bottom: 2rem;
+}
+
 section {
   border-bottom: 1px solid #C2C2C2;
 }
 
 .s-main-latest h2, .s-portfolio h2 {
-  margin: 30px 0 20px;
+  margin: 20px 0 20px;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 1.5rem;
@@ -683,6 +695,10 @@ section {
   background-color: rgba(57, 106, 146, 0.9);
 }
 
+.s-main-latest .block-image .image-text h4, .s-portfolio .block-image .image-text h4 {
+  border-bottom: 1px solid #fff;
+}
+
 .s-main-latest .block-image .image-text a, .s-portfolio .block-image .image-text a {
   color: #fff;
 }
@@ -700,18 +716,20 @@ section {
 
 .s-portfolio {
   padding: 2rem;
+  padding-top: 0;
 }
 
 .s-portfolio .image-text {
   top: 0;
 }
 
-.s-portfolio h4 {
+h4 {
+  margin-bottom: 1rem;
   font-weight: 600;
   line-height: 2;
 }
 
-.s-portfolio h4 a:hover {
+h4 a:hover {
   color: #24425b;
 }
 
@@ -719,16 +737,50 @@ section {
    Footer
    @mixin ========================================================================= */
 .footerRuler {
+  background: url(../img/footerRuler.png) repeat-x scroll 0% 0% transparent;
   height: 2px;
   display: block;
+  margin: 0;
 }
 
 footer {
   -webkit-box-shadow: 0px 1px 0px 0px #CFCFCF inset;
           box-shadow: 0px 1px 0px 0px #CFCFCF inset;
-  background-color: #E9E9E9;
-  padding: 5px;
+  padding: 20px 5px;
   width: 100%;
   margin: 0px auto;
   text-align: center;
+}
+
+/* ==========================================================================
+   Form
+   @mixin ========================================================================= */
+form input:not([type="submit"]), form textarea {
+  background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.05);
+  width: 100%;
+  max-width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+form input:not([type="submit"]) {
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+form textarea {
+  height: 10rem;
+}
+
+form input[type="submit"] {
+  background: #396A92;
+  width: 100%;
+  margin: 0.5rem 0;
+  border: 0;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+form input[type="submit"]:hover {
+  background: #6c9dc5;
 }

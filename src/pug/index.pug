@@ -1,3 +1,4 @@
+-var breadcrumb = "";
 doctype html
 html.no-js(lang='ru')
 	head
@@ -16,16 +17,21 @@ html.no-js(lang='ru')
 				.grid-spaceBetween
 					.col
 						//- img(src="img/logo.png")
-						h2 qDev
+						h2.logo: a(href="/") qDev
 					.col
 						nav
 							menu.grid-spaceAround
-								- var menu = [{url: '/', name: 'Главная'}, {url: '/portfolio.html', name: 'Портфолио'}, {url: '/notes.html', name: 'Заметки'}, {url: '/about.html', name: 'About'}];
+								- var menu = [{url: '/', name: 'Главная'}, {url: '/portfolio.html', name: 'Портфолио'}, {url: '/notes.html', name: 'Заметки'}, {url: '/contacts.html', name: 'Контакты'}];
 								each item in menu
 										li.col: a(href=item.url)= item.name
 			main
+				.breadcrumbs
+					block breadcrumbs
+						-var breadcrumb = "";
+					if breadcrumb
+						h1= breadcrumb
 				block content
-					section.s-intro
+					//- section.s-intro
 						.grid
 							.col-12
 					section.s-main-latest
@@ -46,9 +52,11 @@ html.no-js(lang='ru')
 									.wrap20
 										h4: a(href="#") Заголовок записи
 										p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae iusto esse ut rem! Vel enim fugiat, temporibus alias atque quod maxime id rem nam totam illo ratione consequatur voluptates soluta!
+										p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae iusto esse ut rem! Vel enim fugiat, temporibus alias atque quod maxime id rem nam totam illo ratione consequatur voluptates soluta!
+										p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae iusto esse ut rem! Vel enim fugiat, temporibus alias atque quod maxime id rem nam totam illo ratione consequatur voluptates soluta!
 			hr.footerRuler
 			footer
-				p Copyright © 2014
+				p Copyright © 2016
 		script(src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js")
 		//- script(src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js")
 		script(src="js/main.js")

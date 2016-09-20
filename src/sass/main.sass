@@ -7,7 +7,10 @@
 // @import "../../bower_components/normalize.css/normalize.css"
 
 // Typography
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic,latin)
+@import url(http://fonts.googleapis.com/css?family=Courgette);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700&subset=latin,cyrillic);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow&subset=cyrillic);
+// @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic,latin)
 // @import url(https://fonts.googleapis.com/css?family=PT+Sans:700&subset=cyrillic)
 // @import url(https://fonts.googleapis.com/css?family=Roboto:400,700&subset=cyrillic,latin)
 
@@ -35,12 +38,18 @@ body
 	flex-direction: column
 .wrap20
 	padding: 20px
+.logo
+	font: 30px/2 'Courgette', italic;
+	// font-size: 32px
+	// font-style: italic
+	letter-spacing: 10px
+	// text-align: center
 
 /* ==========================================================================
    Header
    ========================================================================== */
 header
-	border-bottom: 1px solid #C2C2C2
+	// border-bottom: 1px solid #C2C2C2
 	menu
 		li
 			a
@@ -55,6 +64,15 @@ header
 
 main
 	flex-grow: 1
+h1
+	font:
+		family: 'PT Sans Narrow', sans-serif
+		size: 1.5em
+		weight: bold
+	text-transform: uppercase;
+	border-bottom: 1px solid #C2C2C2;
+	color: #bbb;
+	margin-bottom: 2rem
 
 section
 	border-bottom: 1px solid #C2C2C2	
@@ -62,7 +80,7 @@ section
 .s-intro
 .s-main-latest
 	h2
-		margin: 30px 0 20px
+		margin: 20px 0 20px
 		text-transform: uppercase
 		font:
 			weight: 700
@@ -87,6 +105,8 @@ section
 				transition: all 1s ease-out
 				transform: translate(0%, 100%)
 				background-color: transparentize($link-c, .1)
+				h4
+					border-bottom: 1px solid #fff
 				a
 					color: $white
 					&:hover
@@ -96,16 +116,18 @@ section
 				transform: translate(0%, 0%)
 .s-portfolio
 	padding: 2rem
+	padding-top: 0
 	@extend .s-main-latest
 	
 	.image-text
 		top: 0
 
-	h4
-		font-weight: 600
-		line-height: 2
-		a:hover
-			color: darken($link-c, 15%)
+h4
+	margin-bottom: 1rem
+	font-weight: 600
+	line-height: 2
+	a:hover
+		color: darken($link-c, 15%)
 
 
 
@@ -113,13 +135,39 @@ section
    Footer
    ========================================================================== */
 .footerRuler
-	// background: url(../img/footerRuler.png) repeat-x scroll 0% 0% transparent
+	background: url(../img/footerRuler.png) repeat-x scroll 0% 0% transparent
 	height: 2px
 	display: block
+	margin: 0
 footer
 	box-shadow: 0px 1px 0px 0px #CFCFCF inset
-	background-color: #E9E9E9
-	padding: 5px
+	// background-color: #E9E9E9
+	padding: 20px 5px
 	width: 100%
 	margin: 0px auto
 	text-align: center
+
+/* ==========================================================================
+   Form
+   ========================================================================== */
+form
+	input:not([type="submit"]), textarea
+		background:	none repeat scroll 0% 0% rgba(0, 0, 0, 0.05)
+		width: 100% 
+		max-width: 100% 
+		padding: 10px
+		border: 1px solid #ccc
+	input:not([type="submit"])
+		padding: 0.5rem
+		margin-bottom: 0.5rem
+	textarea
+		height: 10rem
+	input[type="submit"]
+		background: $button-bg
+		width: 100%
+		margin: 0.5rem 0
+		border: 0
+		text-transform: uppercase
+		font-size: 1rem
+		&:hover
+			background: lighten($button-bg, 20%)
